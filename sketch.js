@@ -55,6 +55,7 @@ function setup(){
   grupoTijolos = new Group( )
   grupoEstrelas = new Group()
   
+  
 }
 function draw(){
   background("#00BFFF ")
