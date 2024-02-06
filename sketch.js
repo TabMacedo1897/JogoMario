@@ -54,7 +54,8 @@ function setup(){
   grupoObstaculo = new Group()
   grupoTijolos = new Group( )
   grupoEstrelas = new Group()
-  
+
+  musicafundo.play()
   
 }
 function draw(){
